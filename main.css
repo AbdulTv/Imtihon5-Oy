@@ -1,0 +1,347 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: black;
+    width: 1470px;
+    height: 3370px;
+}
+
+.container {
+    max-width: 100%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.Roadmap-list {
+    height: 0px;
+    position: relative;
+    top: -500px;
+}
+
+.h1-Roadmap-list {
+    color: #fff;
+}
+
+.mini-box-roadmap {
+    background-color: rgba(136, 100, 100, 0.319);
+    border: 1.5px solid yellowgreen;
+    color: #fff;
+    width: 540px;
+    height: 271px;
+    margin: 0 auto;
+    position: relative;
+    left: -165px;
+}
+
+.mini-box-roadmap:hover {
+    background-color: chocolate;
+    border: 1.5px solid yellowgreen;
+    color: #fff;
+    width: 540px;
+    height: 271px;
+    margin: 0 auto;
+}
+
+.strong-RoadmapBox {
+    border: 1.5px solid yellowgreen;
+    padding: 4px;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.h2-RoadmapBox {
+    position: relative;
+    top: -57px;
+    border-bottom: 1.5px solid yellowgreen;
+    padding: 50px;
+}
+
+.p-RoadmapBox  {
+    position: relative;
+    left: 30px;
+}
+
+.h3-RoadmapBox {
+    position: relative;
+    top: 2px;
+    left: 30px;
+    width: 300px;
+}
+
+.Roadmap-Rasm {
+    position: relative;
+    left: 390px;
+    top: -90px;
+}
+
+.Roadmap-Rasm-box2 {
+    position: relative;
+    left: 390px;
+    top: -113px;
+}
+
+.Roadmap-box1-Img-Dumaloq1 {
+    position: relative;
+    top: 450px;
+    right: 220px;
+    width: 585px;
+    z-index: 1;
+}
+
+.Roadmap-box2-Img-Dumaloq2 {
+    position: relative;
+    top: 470px;
+    left: 530px;
+    width: 585px;
+    z-index: 1;
+}
+
+.Roadmap-box3-Img-Dumaloq3 {
+    position: relative;
+    top: 470px;
+    right: 170px;
+    width: 585px;
+    z-index: 1;
+}
+
+.Roadmap-box1 {
+    position: relative;
+    top: -500px;
+    left: 150px;
+    height: 1500px;
+}
+
+.Roadmap-box2 {
+    position: relative;
+    top: -450px;
+    width: 200px;
+}
+
+.Roadmap-box3 {
+    position: relative;
+    top: -910px;
+}
+
+.h1-Roadmap-list {
+    position: relative;
+    left: 40%;
+}
+
+.Aos-box {
+    width: 1470px;
+}
+
+.box-Artist-list {
+    display: flex;
+    gap: 150px;
+    position: relative;
+    left: -50px;
+}
+
+.h1-Artist-list {
+    width: 1000px;
+    color: #fff;
+    font-size: 80px;
+    position: relative;
+    bottom: 80px;
+    left: 36.5%;
+    width: 200px;
+}
+
+.mini-box-Artist-list {
+    width: 320px;
+    height: 552px;
+    color: #fff;
+}
+
+.mini-box-Artist-list:hover {
+    width: 320px;
+    height: 552px;
+    background-color: chocolate;
+    color: #fff;
+}
+
+.a-Artist-list {
+    color: chartreuse;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    left: 130px;
+}
+
+.h2-Artist-list {
+    text-align: center;
+}
+
+.p-Artist-list {
+    position: relative;
+    top: 70px;
+    width: 280px;
+    text-align: center;
+}
+
+.img-Artist-icon-list {
+    position: relative;
+    left: 60px;
+    top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header_father {
+    background-color: #490404;
+    height: 100px;
+}
+
+.ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.baground_main {
+    background-color: black;
+    height: 200px;
+}
+
+.ul_img {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+
+.main_baground{
+    background-color: black;
+    height: 1300px;
+}
+
+.h2{
+    display: flex;
+  padding: 25px;
+  color: #fff;
+}
+
+
+.main_img{
+    display: flex;
+    justify-content: right;
+}
+
+.button{
+    border: none;
+    background-color: #8DFD1B;
+    width: 160px;
+    padding: 10px 0;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.header_bmg2{
+    background-color: #42006A;
+    height: 200px;
+}
+
+.img_meta{
+    padding: 30px;
+}
+.bg_img2{
+    background-color: blue;
+    height: 200px;
+}
+
+.div_h2 {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.img-3 {
+    width: 103px;
+    height: 24px;
+    position: relative;
+    top: 20px;
+    left: -110px;
+    padding: 60px 60px 110px 60px;
+}
+
+.firstp {
+    width: 90px;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: left;
+     margin-right: 80px;
+}
+
+.main {
+    display: flex;
+}
+
+.first-but {
+    width: 46px;
+    height: 36px;
+    position: relative;
+    top: 75px;
+    right: 15px;
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 400px;
+}
+.first1{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    color: white;
+    padding-right: 10px;
+    height: 100px;
+}
+.first{
+    margin: 50px;
+    color: white;
+}
+
+footer {
+    margin-top: 100px;
+    background-color: blue;;
+}
